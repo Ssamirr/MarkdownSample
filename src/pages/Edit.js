@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactMarkdown from 'https://esm.sh/react-markdown@7'
 
 function Edit(props) {
 
